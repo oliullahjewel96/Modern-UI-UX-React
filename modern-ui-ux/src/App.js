@@ -9,6 +9,7 @@ import {
   Features,
 } from "./containers";
 import { Brand, CTA, Navbar } from "./components";
+import "./App.css";
 
 export default function App() {
   return (
